@@ -8,4 +8,4 @@ encontrei dificuldade em fazer a "IA",
 a "IA" funciona com um sistema de aleatoriedade, o codigo encontra duas posições aleatorias e as marca com o bolinha "O",
 não é a forma mais interessante de se fazer um jogo da velha,
 mas é oque minhas habilidades me proporcionam no momento, continuarei postando minha evolução aqui,
-acredito que cada projeto é importante, pois retrata bem os seus desafios.
+acredito que cada projeto é importante, pois retrata bem os seus desafios e progresso.
